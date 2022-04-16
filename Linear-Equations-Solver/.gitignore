@@ -1,0 +1,9 @@
+Linear Equations Solver/*
+!Linear Equations Solver/task/
+.git
+.idea
+*gradle*
+build
+test
+*.yaml
+output.txt

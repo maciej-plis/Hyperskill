@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f472c75a-1b69-48ac-8620-a3ae834296b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Encryption-Decryption/task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Encryption-Decryption/task/build/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <ignored path="$PROJECT_DIR$/Encryption-Decryption/task/out/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Cryptographer.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="527">
+                  <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingUnicodeEncryption.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="153">
+                  <caret line="11" selection-start-line="11" selection-end-line="11" />
+                  <folding>
+                    <element signature="e#297#298#0" expanded="true" />
+                  </folding>
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingAlphabetEncryption.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="204">
+                  <caret line="16" column="21" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="21" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState>
+                  <caret selection-end-line="10" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>t</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/EncryptingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/DataInOut.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/FileHandler.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Mode.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ConsoleHandler.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/DataInput.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/DataOutput.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Connector.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Cryptographer.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingUnicodeEncryption.java" />
+        <option value="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingAlphabetEncryption.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="190" />
+    <option name="y" value="-11" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Encryption-Decryption2" type="a264ea2a:RootNode" />
+              <item name="Encryption-Decryption2" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption2" type="a264ea2a:RootNode" />
+              <item name="Encryption-Decryption2" type="ed842865:CourseNode" />
+              <item name="task" type="a27419f0:FrameworkLessonNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption2" type="a264ea2a:RootNode" />
+              <item name="Encryption-Decryption2" type="ed842865:CourseNode" />
+              <item name="task" type="a27419f0:FrameworkLessonNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Encryption-Decryption2" type="a264ea2a:RootNode" />
+              <item name="Encryption-Decryption2" type="ed842865:CourseNode" />
+              <item name="task" type="a27419f0:FrameworkLessonNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="encryptdecrypt" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encryptdecrypt.Main" />
+      <module name="Encryption-Decryption-task_main" />
+      <option name="PROGRAM_PARAMETERS" value="-alg shift -mode enc -key 3 -data xyz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encryptdecrypt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f472c75a-1b69-48ac-8620-a3ae834296b6" name="Default Changelist" comment="" />
+      <created>1567531896043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567531896043</updated>
+      <workItem from="1567531899300" duration="1497000" />
+      <workItem from="1567536057315" duration="1796000" />
+      <workItem from="1567537923875" duration="597000" />
+      <workItem from="1567542377209" duration="653000" />
+      <workItem from="1568062859146" duration="1572000" />
+      <workItem from="1568064535323" duration="894000" />
+      <workItem from="1568644071351" duration="837000" />
+      <workItem from="1568645121971" duration="1500000" />
+      <workItem from="1568647866592" duration="985000" />
+      <workItem from="1568657863590" duration="511000" />
+      <workItem from="1568658447975" duration="595000" />
+      <workItem from="1568661372986" duration="1177000" />
+      <workItem from="1568663151537" duration="1760000" />
+      <workItem from="1568665083122" duration="1756000" />
+      <workItem from="1568667007060" duration="1744000" />
+      <workItem from="1568668814225" duration="1138000" />
+      <workItem from="1568707412692" duration="1692000" />
+      <workItem from="1568709179915" duration="1776000" />
+      <workItem from="1568711027447" duration="1756000" />
+      <workItem from="1568712878295" duration="1086000" />
+      <workItem from="1568733683405" duration="1145000" />
+      <workItem from="1568735483727" duration="879000" />
+      <workItem from="1568752354643" duration="1272000" />
+      <workItem from="1569251660668" duration="554000" />
+      <workItem from="1569252924624" duration="599000" />
+      <workItem from="1569254029019" duration="1043000" />
+      <workItem from="1569255631445" duration="1527000" />
+      <workItem from="1569259169562" duration="1781000" />
+      <workItem from="1569260983725" duration="1856000" />
+      <workItem from="1569262868221" duration="1078000" />
+      <workItem from="1569264683341" duration="1782000" />
+      <workItem from="1569266510435" duration="232000" />
+      <workItem from="1569342548491" duration="85000" />
+      <workItem from="1569342692458" duration="886000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.03 at 20h 57m 01s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.03 at 21h 03m 38s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.03 at 21h 04m 26s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.03 at 22h 27m 02s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.09 at 23h 03m 50s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.09 at 23h 04m 14s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.09 at 23h 33m 46s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.09 at 23h 43m 27s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.23 at 21h 09m 05s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Encryption-Decryption-task_test' - 2019.09.24 at 18h 34m 06s.xml">
+      <configuration name="Tests in 'Encryption-Decryption-task_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40077000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29317698" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.27292112" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.class" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Mode.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/DataInOut.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ConsoleHandler.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/DataOutput.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/DataInput.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/FileHandler.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/protected.txt" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/road_to_treasure.txt" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/output.txt" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/EncryptingAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Connector.java" />
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingUnicodeEncryption.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="153">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret selection-end-line="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/road_to_treasure.txt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftingAlphabetEncryption.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="204">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="21" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Cryptographer.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="527">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Encryption-Decryption2|Encryption-Decryption2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

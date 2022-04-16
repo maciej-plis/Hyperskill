@@ -1,0 +1,8 @@
+Maze Runner/*
+!Maze Runner/task/src
+.git
+.idea
+*gradle*
+build
+test
+*.yaml
